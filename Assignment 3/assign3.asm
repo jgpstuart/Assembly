@@ -1,4 +1,4 @@
-//CPSC255 Assignment 3, written by Jeremy Stuart (00311644)
+//CPSC355 Assignment 3, written by Jeremy Stuart (00311644)
 
 define(i_reg, w19)
 define(j_reg, w20)
